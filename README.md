@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Max 👋
 
-- 🔭 Software Engineer developing tools for chromatography &ndash; mass-spectrometry analysis
+- 🤖 Software Engineer developing tools for chromatography &ndash; mass-spectrometry analysis
+- 🧪 Chemistry Master's student at Brno University of Technology
 
 <!--
 **maximskorik/maximskorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
