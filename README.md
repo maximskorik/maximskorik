@@ -1,6 +1,6 @@
 ### Hi there, I'm Max 👋
 
-- 🤖 Software Engineer developing tools for chromatography &ndash; mass-spectrometry data analysis
+- 🤖 Software Engineer developing tools for chromatography &ndash; mass spectrometry data analysis
 - 🧪 Chemistry Master's student at Brno University of Technology
 
 <!--
