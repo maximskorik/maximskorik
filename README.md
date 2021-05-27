@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 Software Engineer developing tools for chromatography &ndash; mass-spectrometry analysis
+
 <!--
 **maximskorik/maximskorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
