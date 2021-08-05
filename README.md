@@ -2,7 +2,7 @@
 
 - 🤖 Software Engineer developing tools for chromatography &ndash; mass spectrometry metabolomics-data analysis
 - 🧪 Chemical Engineering master's student at Brno University of Technology
-- 📈 Aspiring Data Scientist, learning statistics and machine learning in my free time
+- 📈 Aspiring Data Scientist, doing and learning statistics and machine learning in my free time
 - 🎹 Occasionally play chess, piano, and learning guitar
 
 <!--
