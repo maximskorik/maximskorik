@@ -3,7 +3,7 @@
 - 🤖 Software Engineer developing tools for chromatography &ndash; mass spectrometry metabolomics-data analysis
 - 🧪 Chemical Engineering master's student at Brno University of Technology
 - 📈 Aspiring Data Scientist, doing and learning statistics, machine learning, and data engineering
-- 🎹 I like playing chess, piano, and I'm learning drums
+- 🎹 In free time I like playing chess, piano, learning drums, and watching F1
 
 <!--
 **maximskorik/maximskorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
