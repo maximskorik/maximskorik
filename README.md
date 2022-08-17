@@ -4,6 +4,7 @@
 - 🧪 Chemical Engineering master's student at Brno University of Technology
 - 📈 Aspiring Data Scientist, doing and learning statistics, machine learning, and data engineering
 - 🎹 In my free time I like playing chess, piano, learning drums, and watching F1
+- 🇺🇦 If you're reading this, please consider donating to the Armed Forces of Ukraine https://savelife.in.ua/en/donate-en/#donate-army-card-once
 
 <!--
 **maximskorik/maximskorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
