@@ -1,9 +1,8 @@
 ### Hi there, I'm Max 👋
 
-- 🤖 Software Engineer developing tools for chromatography &ndash; mass spectrometry metabolomics-data analysis
-- 🧪 Chemical Engineering master's student at Brno University of Technology
-- 📈 Aspiring Data Scientist, doing and learning statistics, machine learning, and data engineering
-- 🎹 In my free time I like playing chess, piano, learning drums, and watching F1
+- 🤖 Cloud and Data Engineer developing data infrastracture for drug discovery
+- 🧪 MSc in Chemical Engineering
+- 🎹 In my free time I like playing chess, squash, piano, and climbing (artificial) rocks
 - 🇺🇦 If you're reading this, please consider donating to the Armed Forces of Ukraine https://savelife.in.ua/en/donate-en/#donate-army-card-once
 
 <!--
